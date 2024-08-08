@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-08T15:03:44 BST" name="Default suite" finished-at="2024-08-08T15:03:47 BST" duration-ms="3162">
+    <groups>
+    </groups>
+    <test started-at="2024-08-08T15:03:44 BST" name="Default test" finished-at="2024-08-08T15:03:47 BST" duration-ms="3162">
+      <class name="BasicHttpRequests.ex1_getRequest">
+        <test-method signature="getRequest_ValidID()[pri:1, instance:BasicHttpRequests.ex1_getRequest@459e9125]" started-at="2024-08-08T15:03:44 BST" name="getRequest_ValidID" finished-at="2024-08-08T15:03:47 BST" duration-ms="2920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_ValidID -->
+        <test-method signature="getRequest_inValidID()[pri:2, instance:BasicHttpRequests.ex1_getRequest@459e9125]" started-at="2024-08-08T15:03:47 BST" name="getRequest_inValidID" finished-at="2024-08-08T15:03:47 BST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_inValidID -->
+      </class> <!-- BasicHttpRequests.ex1_getRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
